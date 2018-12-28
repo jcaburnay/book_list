@@ -1,0 +1,15 @@
+{
+  "name": "book_list",
+  "version": "1.0.0",
+  "description": "Book List App",
+  "main": "app.js",
+  "dependencies": {
+    "pkg": "^4.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Caburnay",
+  "license": "ISC"
+}
